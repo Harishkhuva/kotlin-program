@@ -74,3 +74,12 @@
 //        println("$a is not Palindrom")
 //    }
 //}
+
+// delete query 
+//fun main(){
+//    delete(tableName = "student" , columnName = "id" , columnValue = 15)
+//}
+//
+//fun delete(tableName:String,columnName:String,columnValue: Any){
+//    println("DELETE FROM $tableName WHERE $columnName = $columnValue")
+//}
