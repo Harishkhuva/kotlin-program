@@ -1,4 +1,4 @@
-fun main() {
+// fun main() {
 //    println("Enter the distance in kilometer : ")
 //    val km = readln()!!.toInt()
 //    val feet = km*3280.84
@@ -61,4 +61,16 @@ fun main() {
     // println("Your Sentance without replacement is : $stn")
     // println("Your Replacement word is : $rword")
     // println("Your Final Sentance with replacement is : $result")
-}
+// }
+//Palindrom string
+//fun main(){
+//    println("Enter the string here to check Palindrom : ")
+//    var a= readln()
+//
+//    if(a == a.reversed()){
+//        println("$a is a Palindrom")
+//    }
+//    else{
+//        println("$a is not Palindrom")
+//    }
+//}
